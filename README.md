@@ -7,6 +7,6 @@
 ***A game engine for creating and playing online adaptations of board and card games. It allows both real-time and email play.***
 
 
-- dependencies: **openjdk-21-jre** , **openjdk21-jre**
+- ***dependencies:*** *openjdk-21-jre* , *openjdk21-jre*
 - vassal-3.7.14_1.x86_64.pet
 - vassal-3.7.14_1.x86_64.xbps
