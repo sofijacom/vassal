@@ -10,6 +10,8 @@
 - ***dependencies:*** `openjdk-21-jre , openjdk21-jre`
 - vassal-3.7.14_1.x86_64.pet
 - vassal-3.7.14_1.x86_64.xbps
+- vassal-3.7.14-1-x86_64.pkg.tar.zst
+
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
